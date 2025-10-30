@@ -12,6 +12,7 @@
 _Get started using GitHub in less than an hour._
 というテスト
 変更２回めのテスト
+ディレクトリ名を変えたらBranchが出たテスト
 </header>
 
 <!--
